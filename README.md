@@ -1,7 +1,7 @@
 # node-rest-boilerplate
 
-[![Hits-of-Code](https://hitsofcode.com/github/500lab/node-rest-boilerplate)](https://hitsofcode.com/view/github/500lab/node-rest-boilerplate)
-[![GitHub](https://img.shields.io/github/license/500lab/node-rest-boilerplate.svg)](https://github.com/500lab/node-rest-boilerplate/blob/master/LICENSE)
+[![Hits-of-Code](https://hitsofcode.com/github/cuongndc9/node-rest-boilerplate)](https://hitsofcode.com/view/github/cuongndc9/node-rest-boilerplate)
+[![GitHub](https://img.shields.io/github/license/cuongndc9/node-rest-boilerplate.svg)](https://github.com/cuongndc9/node-rest-boilerplate/blob/master/LICENSE)
 
 > 🌏🚀 A Node.js boilerplate with RESTful, Prisma, PostgreSQL and awesome tools.
 
@@ -25,7 +25,7 @@
 ### Step 1: Clone this project and remove `.git` folder
 
 ```sh
-$ git clone https://github.com/500lab/node-rest-boilerplate.git
+$ git clone https://github.com/cuongndc9/node-rest-boilerplate.git
 $ cd node-rest-boilerplate && rm -rf .git
 ```
 
@@ -56,4 +56,4 @@ $ yarn start:dev
 
 ## License
 
-MIT © [cuongw](https://github.com/cuongw)
+MIT © [cuongndc9](https://github.com/cuongndc9)
